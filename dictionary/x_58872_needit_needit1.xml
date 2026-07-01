@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element attributes="enforce_dot_walk_cross_scope_access=true" db_object_id="b12fed5f83258790b3d4f7b6feaad384" extends="task" label="NeedIt" max_length="40" name="x_58872_needit_needit1" type="collection"/>
+</database>
